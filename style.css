@@ -1,0 +1,30 @@
+#content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 2em;
+    color: white;
+    border: 2px solid white;
+}
+
+.circle {
+    color: green;
+}
+
+.cross {
+    color: blue;
+}
